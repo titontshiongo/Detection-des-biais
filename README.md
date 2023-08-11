@@ -6,4 +6,4 @@ Nous avons testé une approche exploratoire combinant l'utilisation des méthode
 Les différents notebook traitent de la recherche de biais inconnus dans les tâches de classification multiclasse de texte.
 Le premier notebook traite de l'analyse exploratoire des données textes.
 Le deuxième concerne la détéction de la variable sensible à partir des clusters analysés en mettant l'humain dans la boucle.
-Le troisième notebook traite l'entraînement du modèle DistilBert avec la variable sensible détectée pour identifier un possible comportement déviant du modèle.
+Le troisième notebook traite l'entraînement du modèle DistilBert avec la variable sensible détectée pour identifier un éventuel comportement déviant du modèle.
